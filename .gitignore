@@ -1,0 +1,8 @@
+# Visual Studio
+.vs/
+
+# Terraform
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+*.tfvars
